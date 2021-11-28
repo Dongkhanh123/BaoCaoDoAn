@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DoAnQuanLyDienThoaiModelStoreContainer" CdmEntityContainer="DoAnQuanLyDienThoaiEntities">
+    <EntitySetMapping Name="DANHMUCs">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.DANHMUC">
+        <MappingFragment StoreEntitySet="DANHMUC">
+          <ScalarProperty Name="MADANHMUC" ColumnName="MADANHMUC" />
+          <ScalarProperty Name="TENDANHMUC" ColumnName="TENDANHMUC" />
+          <ScalarProperty Name="Avatar" ColumnName="Avatar" />
+          <ScalarProperty Name="DisplayOder" ColumnName="DisplayOder" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MATHANGs">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.MATHANG">
+        <MappingFragment StoreEntitySet="MATHANG">
+          <ScalarProperty Name="MAMATHANG" ColumnName="MAMATHANG" />
+          <ScalarProperty Name="TENMATHANG" ColumnName="TENMATHANG" />
+          <ScalarProperty Name="AVARTAR" ColumnName="AVARTAR" />
+          <ScalarProperty Name="DISPLAYODER" ColumnName="DISPLAYODER" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHACUNGCAPs">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.NHACUNGCAP">
+        <MappingFragment StoreEntitySet="NHACUNGCAP">
+          <ScalarProperty Name="MANHACC" ColumnName="MANHACC" />
+          <ScalarProperty Name="TENNHACC" ColumnName="TENNHACC" />
+          <ScalarProperty Name="DIACHICC" ColumnName="DIACHICC" />
+          <ScalarProperty Name="SDTCC" ColumnName="SDTCC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHANVIENs">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.NHANVIEN">
+        <MappingFragment StoreEntitySet="NHANVIEN">
+          <ScalarProperty Name="MANV" ColumnName="MANV" />
+          <ScalarProperty Name="HOTEN" ColumnName="HOTEN" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="GIOITINH" ColumnName="GIOITINH" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DCHI" ColumnName="DCHI" />
+          <ScalarProperty Name="NGAYVL" ColumnName="NGAYVL" />
+          <ScalarProperty Name="LUONG" ColumnName="LUONG" />
+          <ScalarProperty Name="PHUCAP" ColumnName="PHUCAP" />
+          <ScalarProperty Name="CHUCVU" ColumnName="CHUCVU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orderrs">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.Orderr">
+        <MappingFragment StoreEntitySet="Orderr">
+          <ScalarProperty Name="MAODER" ColumnName="MAODER" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="USEID" ColumnName="USEID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="NGAYDAT" ColumnName="NGAYDAT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderrDetails">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.OrderrDetail">
+        <MappingFragment StoreEntitySet="OrderrDetail">
+          <ScalarProperty Name="MAODERDETIAL" ColumnName="MAODERDETIAL" />
+          <ScalarProperty Name="MAODER" ColumnName="MAODER" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="Soluong" ColumnName="Soluong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SANPHAMs">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.SANPHAM">
+        <MappingFragment StoreEntitySet="SANPHAM">
+          <ScalarProperty Name="MAHANG" ColumnName="MAHANG" />
+          <ScalarProperty Name="TENHANG" ColumnName="TENHANG" />
+          <ScalarProperty Name="HANGSX" ColumnName="HANGSX" />
+          <ScalarProperty Name="MOTANGAN" ColumnName="MOTANGAN" />
+          <ScalarProperty Name="MOTADAYDU" ColumnName="MOTADAYDU" />
+          <ScalarProperty Name="NUOCSX" ColumnName="NUOCSX" />
+          <ScalarProperty Name="GIASP" ColumnName="GIASP" />
+          <ScalarProperty Name="GIAMGIA" ColumnName="GIAMGIA" />
+          <ScalarProperty Name="GHICHU" ColumnName="GHICHU" />
+          <ScalarProperty Name="HINH" ColumnName="HINH" />
+          <ScalarProperty Name="BRANDID" ColumnName="BRANDID" />
+          <ScalarProperty Name="CATEGORYID" ColumnName="CATEGORYID" />
+          <ScalarProperty Name="TYPEID" ColumnName="TYPEID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHACHHANGs">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.KHACHHANG">
+        <MappingFragment StoreEntitySet="KHACHHANG">
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="NGAYDK" ColumnName="NGAYDK" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="PHAI" ColumnName="PHAI" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="TENKH" ColumnName="TENKH" />
+          <ScalarProperty Name="MAKH" ColumnName="MAKH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TSKYTHUATs">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.TSKYTHUAT">
+        <MappingFragment StoreEntitySet="TSKYTHUAT">
+          <ScalarProperty Name="MAHANG" ColumnName="MAHANG" />
+          <ScalarProperty Name="THOI_GIAN_RA_MAT" ColumnName="THOI_GIAN_RA_MAT" />
+          <ScalarProperty Name="XUATXU" ColumnName="XUATXU" />
+          <ScalarProperty Name="HE_DIEU_HANH" ColumnName="HE_DIEU_HANH" />
+          <ScalarProperty Name="THE_SIM" ColumnName="THE_SIM" />
+          <ScalarProperty Name="DUNG_LUONG_PIN" ColumnName="DUNG_LUONG_PIN" />
+          <ScalarProperty Name="GPU" ColumnName="GPU" />
+          <ScalarProperty Name="CPU" ColumnName="CPU" />
+          <ScalarProperty Name="BO_NHO_TRONG" ColumnName="BO_NHO_TRONG" />
+          <ScalarProperty Name="RAM" ColumnName="RAM" />
+          <ScalarProperty Name="CAMERA_SELFIE" ColumnName="CAMERA_SELFIE" />
+          <ScalarProperty Name="CAMERA_SAU" ColumnName="CAMERA_SAU" />
+          <ScalarProperty Name="MAN_HINH" ColumnName="MAN_HINH" />
+          <ScalarProperty Name="MATS" ColumnName="MATS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="DoAnQuanLyDienThoaiModel.user">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="IsAdmin" ColumnName="IsAdmin" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

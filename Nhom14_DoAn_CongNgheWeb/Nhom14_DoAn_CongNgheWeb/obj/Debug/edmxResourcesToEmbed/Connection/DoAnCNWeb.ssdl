@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DoAnQuanLyDienThoaiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DANHMUC">
+    <Key>
+      <PropertyRef Name="MADANHMUC" />
+    </Key>
+    <Property Name="MADANHMUC" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TENDANHMUC" Type="nvarchar" MaxLength="100" />
+    <Property Name="Avatar" Type="nvarchar" MaxLength="100" />
+    <Property Name="DisplayOder" Type="int" />
+  </EntityType>
+  <EntityType Name="KHACHHANG">
+    <Key>
+      <PropertyRef Name="MAKH" />
+    </Key>
+    <Property Name="MAKH" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TENKH" Type="nvarchar" MaxLength="50" />
+    <Property Name="NGAYSINH" Type="date" />
+    <Property Name="PHAI" Type="nvarchar" MaxLength="5" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="50" />
+    <Property Name="SDT" Type="nvarchar" MaxLength="11" />
+    <Property Name="NGAYDK" Type="datetime" />
+    <Property Name="Password" Type="varchar" MaxLength="50" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="70" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MATHANG">
+    <Key>
+      <PropertyRef Name="MAMATHANG" />
+    </Key>
+    <Property Name="MAMATHANG" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TENMATHANG" Type="nvarchar" MaxLength="50" />
+    <Property Name="AVARTAR" Type="nvarchar" MaxLength="100" />
+    <Property Name="DISPLAYODER" Type="int" />
+  </EntityType>
+  <EntityType Name="NHACUNGCAP">
+    <Key>
+      <PropertyRef Name="MANHACC" />
+    </Key>
+    <Property Name="MANHACC" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TENNHACC" Type="nvarchar" MaxLength="50" />
+    <Property Name="DIACHICC" Type="nvarchar" MaxLength="80" />
+    <Property Name="SDTCC" Type="nvarchar" MaxLength="11" />
+  </EntityType>
+  <EntityType Name="NHANVIEN">
+    <Key>
+      <PropertyRef Name="MANV" />
+    </Key>
+    <Property Name="MANV" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="50" />
+    <Property Name="NGAYSINH" Type="date" />
+    <Property Name="GIOITINH" Type="nvarchar" MaxLength="5" />
+    <Property Name="SDT" Type="nvarchar" MaxLength="11" />
+    <Property Name="DCHI" Type="nvarchar" MaxLength="50" />
+    <Property Name="NGAYVL" Type="datetime" />
+    <Property Name="LUONG" Type="money" />
+    <Property Name="PHUCAP" Type="money" />
+    <Property Name="CHUCVU" Type="nvarchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Orderr">
+    <Key>
+      <PropertyRef Name="MAODER" />
+    </Key>
+    <Property Name="MAODER" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="100" />
+    <Property Name="USEID" Type="int" />
+    <Property Name="Status" Type="int" />
+    <Property Name="NGAYDAT" Type="datetime" />
+  </EntityType>
+  <EntityType Name="OrderrDetail">
+    <Key>
+      <PropertyRef Name="MAODERDETIAL" />
+    </Key>
+    <Property Name="MAODERDETIAL" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MAODER" Type="int" />
+    <Property Name="ProductID" Type="int" />
+    <Property Name="Soluong" Type="int" />
+  </EntityType>
+  <EntityType Name="SANPHAM">
+    <Key>
+      <PropertyRef Name="MAHANG" />
+    </Key>
+    <Property Name="MAHANG" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TENHANG" Type="nvarchar" MaxLength="50" />
+    <Property Name="HANGSX" Type="nvarchar" MaxLength="20" />
+    <Property Name="MOTANGAN" Type="nvarchar(max)" />
+    <Property Name="MOTADAYDU" Type="nvarchar(max)" />
+    <Property Name="NUOCSX" Type="nvarchar" MaxLength="50" />
+    <Property Name="GIASP" Type="float" />
+    <Property Name="GIAMGIA" Type="float" />
+    <Property Name="GHICHU" Type="nvarchar" MaxLength="50" />
+    <Property Name="HINH" Type="nvarchar" MaxLength="100" />
+    <Property Name="BRANDID" Type="int" />
+    <Property Name="CATEGORYID" Type="int" />
+    <Property Name="TYPEID" Type="int" />
+  </EntityType>
+  <EntityType Name="TSKYTHUAT">
+    <Key>
+      <PropertyRef Name="MATS" />
+    </Key>
+    <Property Name="MATS" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MAN_HINH" Type="varchar" MaxLength="100" />
+    <Property Name="CAMERA_SAU" Type="varchar" MaxLength="200" />
+    <Property Name="CAMERA_SELFIE" Type="varchar" MaxLength="100" />
+    <Property Name="RAM" Type="varchar" MaxLength="40" />
+    <Property Name="BO_NHO_TRONG" Type="varchar" MaxLength="40" />
+    <Property Name="CPU" Type="varchar" MaxLength="100" />
+    <Property Name="GPU" Type="varchar" MaxLength="100" />
+    <Property Name="DUNG_LUONG_PIN" Type="varchar" MaxLength="50" />
+    <Property Name="THE_SIM" Type="varchar" MaxLength="100" />
+    <Property Name="HE_DIEU_HANH" Type="varchar" MaxLength="100" />
+    <Property Name="XUATXU" Type="nvarchar" MaxLength="100" />
+    <Property Name="THOI_GIAN_RA_MAT" Type="datetime" />
+    <Property Name="MAHANG" Type="int" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="50" />
+    <Property Name="IsAdmin" Type="bit" />
+  </EntityType>
+  <Association Name="FK_SANPHAM">
+    <End Role="SANPHAM" Type="Self.SANPHAM" Multiplicity="0..1" />
+    <End Role="TSKYTHUAT" Type="Self.TSKYTHUAT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SANPHAM">
+        <PropertyRef Name="MAHANG" />
+      </Principal>
+      <Dependent Role="TSKYTHUAT">
+        <PropertyRef Name="MAHANG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DoAnQuanLyDienThoaiModelStoreContainer">
+    <EntitySet Name="DANHMUC" EntityType="Self.DANHMUC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KHACHHANG" EntityType="Self.KHACHHANG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MATHANG" EntityType="Self.MATHANG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NHACUNGCAP" EntityType="Self.NHACUNGCAP" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NHANVIEN" EntityType="Self.NHANVIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Orderr" EntityType="Self.Orderr" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderrDetail" EntityType="Self.OrderrDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SANPHAM" EntityType="Self.SANPHAM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TSKYTHUAT" EntityType="Self.TSKYTHUAT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_SANPHAM" Association="Self.FK_SANPHAM">
+      <End Role="SANPHAM" EntitySet="SANPHAM" />
+      <End Role="TSKYTHUAT" EntitySet="TSKYTHUAT" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

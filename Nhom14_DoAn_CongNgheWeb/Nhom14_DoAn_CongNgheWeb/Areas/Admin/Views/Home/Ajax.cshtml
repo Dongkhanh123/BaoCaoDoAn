@@ -1,0 +1,9 @@
+﻿
+@{
+    ViewBag.Title = "Ajax";
+    Layout = "~/Areas/Admin/Views/Shared/HomeAdminLayot.cshtml";
+}
+
+@Ajax.ActionLink("Dùng Ajax Để Load Nhân Viên ", "NhanVienPartial", new AjaxOptions { HttpMethod="GET",UpdateTargetId= "ketqua",InsertionMode=InsertionMode.InsertAfter,LoadingElementId="divLoading" })
+<div id="divLoading" style="display:none"></div>
+<div id="ketqua" style="height:150px"></div>

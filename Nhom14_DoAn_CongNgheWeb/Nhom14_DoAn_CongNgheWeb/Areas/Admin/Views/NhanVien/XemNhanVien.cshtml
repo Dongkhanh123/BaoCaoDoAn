@@ -1,0 +1,118 @@
+﻿@model Nhom14_DoAn_CongNgheWeb.Connection.NHANVIEN
+
+@{
+    ViewBag.Title = "XemNhanVien";
+    Layout = "~/Areas/Admin/Views/Shared/HomeAdminLayot.cshtml";
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<style>
+    .display-label {
+        border: 1px solid RED;
+        width: 190px;
+    }
+</style>
+
+<h2>XemNhanVien</h2>
+
+<div>
+    <h4>NHANVIEN</h4>
+    <hr />
+    <fieldset style="border: solid;">
+        <div class="display-label">
+            MÃ NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.MANV)
+        </div>
+        <div class="display-label">
+            TÊN  NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.HOTEN)
+        </div>
+        <div class="display-label">
+            NGÀY SINH  NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.NGAYSINH)
+        </div>
+        <div class="display-label">
+            GIỚI TÍNH  NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.GIOITINH)
+        </div>
+        <div class="display-label">
+            SỐ ĐIỆN THOẠI NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.SDT)
+        </div>
+
+        <div class="display-label">
+            ĐỊA CHỈ NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.DCHI)
+        </div>
+        <div class="display-label">
+            NGÀY VÀO LÀM NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.NGAYVL)
+        </div>
+        <div class="display-label">
+            LƯƠNG NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.LUONG)
+        </div>
+        <div class="display-label">
+            PHỤ CẤP  NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.PHUCAP)
+        </div>
+
+        <div class="display-label">
+            CHỨC VỤ NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.CHUCVU)
+        </div>
+        <div class="display-label">
+            MẬT KHẨU NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Password)
+        </div>
+        <div class="display-label">
+            EMAIL NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.EMAIL)
+        </div>
+        <div class="display-label">
+            QUYỀN NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Quyen)
+        </div>
+        <div class="display-label">
+            HÌNH NHÂN VIÊN
+        </div>
+        <div class="display-field">
+            @*@Html.DisplayFor(model => model.hinh)*@
+            <img src="~/Areas/Admin/Content/Images/Images/@Model.hinh" class="w-100 rounded" />
+        </div>
+
+
+    </fieldset>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "IndexNhanVien")
+</p>

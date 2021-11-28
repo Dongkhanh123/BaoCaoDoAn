@@ -1,0 +1,42 @@
+﻿@using Nhom14_DoAn_CongNgheWeb.Connection;
+@model IEnumerable<SANPHAM>
+
+@{
+    ViewBag.Title = "KQTimkiem";
+    Layout = "~/Views/Share/TrangChuLayout.cshtml";
+}
+
+@*<div class="col-md-12-product1">*@
+   
+       <div class="row">
+           <p>KHANH</p>
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-4">
+                <img src="@Url.Content("~/HinhAnhSP/HinhAnhSP/"+item.HINH)" width="70%" height="70%" alt="img" />
+                @if (item.TENHANG.Length > 30)
+                {
+                    <p>
+                        <strong title="@item.TENHANG">Tieu De:@item.TENHANG.Substring(0, 30)....</strong><br />
+                        <a href="@Url.Action("XemChiTiet", new { @ms = item.MAHANG })">Xem Chi Tiet</a>
+                    </p>
+
+
+                }
+                else
+                {
+                    <p>
+                        <strong title="@item.TENHANG">Tieu De:@item.MAHANG</strong><br />
+                        <a href="@Url.Action("XemChiTiet", new { @ms=item.MAHANG})">Xem Chi Tiet</a>
+                    </p>
+
+                }
+            </div>
+
+        }
+    }
+
+</div>
+@*</div>*@
+

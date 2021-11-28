@@ -1,0 +1,226 @@
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\ApplicationInsights.config
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\csc.exe
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\vbc.exe
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\VBCSCompiler.exe
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Nhom14_DoAn_CongNgheWeb.dll.config
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Nhom14_DoAn_CongNgheWeb.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Nhom14_DoAn_CongNgheWeb.pdb
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.Web.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.ApplicationInsights.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Helpers.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Mvc.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Razor.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Deployment.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Razor.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.Web.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.ApplicationInsights.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Razor.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Deployment.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Razor.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Helpers.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Mvc.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.csprojResolveAssemblyReference.cache
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.pdb
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.SqlServer.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.SqlServer.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Newtonsoft.Json.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Owin.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Newtonsoft.Json.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.Mvc.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.Mvc.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Antlr3.Runtime.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Optimization.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\WebGrease.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Antlr3.Runtime.pdb
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Optimization.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EPPlus.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EPPlus.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.IO.RecyclableMemoryStream.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\ApplicationInsights.config
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\csc.exe
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\vbc.exe
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\VBCSCompiler.exe
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Nhom14_DoAn_CongNgheWeb.dll.config
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Nhom14_DoAn_CongNgheWeb.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Nhom14_DoAn_CongNgheWeb.pdb
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Antlr3.Runtime.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.SqlServer.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EPPlus.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.Web.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.ApplicationInsights.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Newtonsoft.Json.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Owin.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.Mvc.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Helpers.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Mvc.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Optimization.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Razor.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Deployment.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Razor.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\WebGrease.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Antlr3.Runtime.pdb
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.SqlServer.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EPPlus.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.Web.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.ApplicationInsights.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.IO.RecyclableMemoryStream.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Newtonsoft.Json.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.Mvc.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Optimization.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Razor.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Deployment.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Razor.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Helpers.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Mvc.xml
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.csprojResolveAssemblyReference.cache
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.dll
+E:\ThuMucLuuHTML\THUMUCLUUMVC\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.pdb
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.pdb
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\ApplicationInsights.config
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Nhom14_DoAn_CongNgheWeb.dll.config
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Nhom14_DoAn_CongNgheWeb.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Nhom14_DoAn_CongNgheWeb.pdb
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Antlr3.Runtime.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.SqlServer.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EPPlus.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.Web.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.ApplicationInsights.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Newtonsoft.Json.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Owin.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.Mvc.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Helpers.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Mvc.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Optimization.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Razor.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Deployment.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Razor.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\WebGrease.dll
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Antlr3.Runtime.pdb
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EntityFramework.SqlServer.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\EPPlus.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.Web.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.ApplicationInsights.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\Newtonsoft.Json.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\PagedList.Mvc.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Optimization.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Razor.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Deployment.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Webpages.Razor.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Helpers.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\bin\System.Web.Mvc.xml
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.csproj.AssemblyReference.cache
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.csproj.CoreCompileInputs.cache
+D:\ThuMucLuuBaiMVC\New folder\14_Website Ban Dien Thoai\14_Website Ban Dien Thoai\Nhom14 _DoAnMVC\Nhom14 _DoAnMVC\Nhom14_DoAn_CongNgheWeb\Nhom14_DoAn_CongNgheWeb\obj\Debug\Nhom14_DoAn_CongNgheWeb.csproj.CopyComplete

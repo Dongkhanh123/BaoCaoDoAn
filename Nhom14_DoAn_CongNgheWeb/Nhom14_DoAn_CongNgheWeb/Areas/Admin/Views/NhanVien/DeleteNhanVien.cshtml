@@ -1,0 +1,151 @@
+﻿@model Nhom14_DoAn_CongNgheWeb.Connection.NHANVIEN
+
+@{
+    ViewBag.Title = "DeleteNhanVien";
+    Layout = "~/Areas/Admin/Views/Shared/HomeAdminLayot.cshtml";
+}
+
+<style>
+        dt {
+            text-align: center;
+            font-weight: 500;
+            color: black;
+            border: solid;
+            /* width: 118
+    px
+    ; */
+        }
+
+        dd {
+            text-align: center;
+            margin-bottom: 0.5rem;
+            margin-left: 0;
+            color: blue;
+        }
+</style>
+
+<div>
+    <dl class="dl-horizontal" style="border: 1vmax solid red">
+        <dt>
+            @Html.DisplayNameFor(model => model.MANV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MANV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HOTEN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HOTEN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NGAYSINH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NGAYSINH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GIOITINH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GIOITINH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SDT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SDT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DCHI)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DCHI)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NGAYVL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NGAYVL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LUONG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LUONG)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PHUCAP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PHUCAP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CHUCVU)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CHUCVU)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EMAIL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EMAIL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quyen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quyen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hinh)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "IndexNhanVien")
+        </div>
+    }
+</div>

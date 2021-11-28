@@ -1,0 +1,61 @@
+﻿@model  Nhom14_DoAn_CongNgheWeb.Connection.NHANVIEN
+@{
+    ViewBag.Title = "XemChiTiet";
+    Layout = "~/Areas/Admin/Views/Shared/HomeAdminLayot.cshtml";
+}
+
+<div class="card border-dark">
+    <table class="border-dark mx-3 mb-3 mt-3">
+        <tr class="text-left">
+            
+            <td rowspan="5" width="45%">
+                <img class="card-header" src="@Url.Content("~/Areas/Admin/Content/Images/Images/" + Model.hinh)" width="50%" />
+            </td>
+            <td width="20%">Ten :</td>
+            <td width="35%" style="font-weight:bold;color:blue">@Model.HOTEN</td>
+        </tr>
+        <tr class="text-left">
+            <td>NGAY SINH:</td>
+            <td style="color:blue">@Model.NGAYSINH</td>
+        </tr>
+        <tr class="text-left">
+            <td>GIOITINH:</td>
+            <td style="color:blue">@Model.GIOITINH</td>
+        </tr>
+        <tr class="text-left">
+            <td>SO DIEN THOAI:</td>
+            <td class="text-justify">@Model.SDT</td>
+        </tr>
+        <tr class="text-left">
+            <td>DIA CHI:</td>
+            <td class="text-justify">@Model.DCHI</td>
+        </tr>
+        <tr class="text-left">
+            <td>NGAY VAO LAM:</td>
+            <td class="text-justify">@Model.NGAYVL</td>
+        </tr>
+        <tr class="text-left">
+            <td>LUONG NHAN VIEN:</td>
+            <td class="text-justify">@Model.LUONG</td>
+        </tr>
+        <tr class="text-left">
+            <td>PHU CAP:</td>
+            <td class="text-justify">@Model.PHUCAP</td>
+        </tr>
+        <tr class="text-left">
+            <td>CHUCVU:</td>
+            <td class="text-justify">@Model.CHUCVU</td>
+        </tr>
+      
+        <tr>
+            <td>
+              
+                <a href="@Url.Action("SachPartial","Sach")"> <input type="submit" value="Sửa Nhân Viên " class="btn btn-primary" /> </a>
+            </td>
+
+
+        </tr>
+    </table>
+</div>
+
+

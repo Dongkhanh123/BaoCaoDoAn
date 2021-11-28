@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewBag.Title = "Payment";
+    Layout = "~/Views/Share/TrangChuLayout.cshtml";
+}
+
+<style>
+    .form-control {
+    border: 1px solid;
+    margin-left:50%;}
+    .form-group {
+    text-align:center;
+    margin-left: 470px;
+    }
+     .btn-default {
+    border: 1px solid;
+    margin-left: 82%;
+    background: linear-gradient(to right, #b706ff 0%, #39ffef 100%) !important;
+    }
+</style>
+<h2>THANH TOÁN</h2>
+<div class="content">
+    <div class="section group">
+        @if (Model.Count > 0)
+        {
+            <div class="row">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td>Mã SP</td>
+                            <td>Tên SP</td>
+                            <td>Ảnh SP</td>
+                            <td>Số lượng</td>
+                            <td>Đơn giá</td>
+                            <td>Thành tiền</td>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Product.MAHANG</td>
+                                <td>@item.Product.TENHANG</td>
+                               
+                                <td><img src="~/Images/DIEN THOAI/IPHONE/@item.Product.HINH" /></td>
+                                <td><input type="number" class="txtsoluong" data-id="@item.Product.MAHANG" value="@item.soluong" /></td>
+                                <td>@item.Product.GIASP</td>
+                                <td>@(Convert.ToDecimal((item.Product.GIASP - item.Product.GIASP * (item.Product.GIAMGIA / 100)) * item.soluong))</td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+
+
+            <div class="row">
+                @using (Html.BeginForm("Payment", "ThanhToanHoaDon", FormMethod.Post))
+                {
+                    <div class="form-group">
+                        <label>Người nhận</label>
+                        <input name="shipName" required class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Điện thoại</label>
+                        <input name="mobile" class="form-control" required maxlength="11" minlength="9" />
+                    </div>
+                        <div class="form-group">
+                            <label>Địa chỉ</label>
+                            <input name="address" required class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label>Email</label>
+                            <input type="email" name="email" required class="form-control" />
+                        </div>
+                        <button type="submit" class="btn btn-default">Gửi đơn hàng</button>
+                }
+            </div>
+
+
+
+
+        }
+        else
+        {
+            <span class="alert alert-danger">Chưa có sản phẩm nào trong giỏ hàng</span>
+        }
+    </div>
+
+
+
+</div>
+
+

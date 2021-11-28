@@ -1,0 +1,281 @@
+﻿@model  PagedList.IPagedList<Nhom14_DoAn_CongNgheWeb.Connection.CHITIETHD>
+@using PagedList.Mvc;
+@using PagedList;
+
+@{
+    ViewBag.Title = "IndexCTHD";
+    Layout = "~/Areas/Admin/Views/Shared/HomeAdminLayot.cshtml";
+}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<style>
+    .pagination {
+        display: inline-block;
+        padding-left: 0;
+        margin: 20px 0;
+        border-radius: 4px;
+    }
+
+        .pagination > li {
+            display: inline;
+        }
+
+            .pagination > li > a,
+            .pagination > li > span {
+                position: relative;
+                float: left;
+                padding: 6px 12px;
+                margin-left: -1px;
+                line-height: 1.428571429;
+                text-decoration: none;
+                background-color: #ffffff;
+                border: 1px solid #dddddd;
+            }
+
+            .pagination > li:first-child > a,
+            .pagination > li:first-child > span {
+                margin-left: 0;
+                border-bottom-left-radius: 4px;
+                border-top-left-radius: 4px;
+            }
+
+            .pagination > li:last-child > a,
+            .pagination > li:last-child > span {
+                border-top-right-radius: 4px;
+                border-bottom-right-radius: 4px;
+            }
+
+            .pagination > li > a:hover,
+            .pagination > li > span:hover,
+            .pagination > li > a:focus,
+            .pagination > li > span:focus {
+                background-color: #eeeeee;
+            }
+
+        .pagination > .active > a,
+        .pagination > .active > a > span,
+        .pagination > .active > a :hover,
+        .pagination > .active > span:hover,
+        .pagination > .active > a :focus,
+        .pagination > .active > span:focus {
+            z-index: 2;
+            color: #ffffff;
+            cursor: default;
+            background-color: #ff0000;
+        }
+
+        .pagination > .disabled > span,
+        .pagination > .disabled > a,
+        .pagination > .disabled > a :hover,
+        .pagination > .disabled > a:focus {
+            cursor: #999999;
+            cursor: not-allowed;
+            background-color: #ffffff;
+            border-color: #dddddd;
+        }
+
+    .pagination-lg > li > a,
+    pagination-lg > li > span {
+        padding: 10px 16px;
+        font-size: 18px;
+    }
+
+    .pagination-lg > li:first-child > a,
+    .pagination-lg > li:first-child > span {
+        border-bottom-left-radius: 6px;
+        border-top-left-radius: 6px;
+    }
+
+    .pagination-lg > li:last-child > a,
+    .pagination-lg > li:last-child > span {
+        border-bottom-right-radius: 6px;
+        border-top-right-radius: 6px;
+    }
+
+    .pagination-sm > li > a,
+    .pagination-sm > li > span {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+
+    .pagination-sm > li:first-child > a,
+    .pagination-sm > li:first-child > span {
+        border-bottom-left-radius: 3px;
+        border-top-left-radius: 3px;
+    }
+
+    .pagination-sm > li:last-child > a,
+    .pagination-sm > li:last-child > span {
+        border-bottom-right-radius: 3px;
+        border-top-right-radius: 3px;
+    }
+
+    .pager {
+        padding-left: 0;
+        margin: 20px 0;
+        text-align: center;
+        list-style: none;
+    }
+
+        .pager:before,
+        .pager:after {
+            display: table;
+            content: "";
+        }
+
+        .pager:after {
+            clear: both;
+        }
+
+        .pager li {
+            display: inline;
+        }
+
+            .pager li > a,
+            .pager li > span {
+                display: inline-block;
+                padding: 5px 14px;
+                background-color: #ffffff;
+                border: 1px solid #dddddd;
+                border-radius: 15px;
+            }
+
+                .pager li > a:hover,
+                .pager li > a:focus {
+                    text-decoration: none;
+                    background-color: #eeeeee;
+                }
+
+        .pager .next .a,
+        .pager .next > span {
+            float: right;
+        }
+
+        .pager .previous .a,
+        .pager .previous > span {
+            float: left;
+        }
+
+        .pager .disabled .a,
+        .pager .disabled > a:hover,
+        .pager .disabled > a:focus,
+        .pager .disabled > span {
+            color: #999999;
+            cursor: not-allowed;
+            background-color: #ffffff;
+        }
+
+    th {
+        color: red;
+    }
+
+    td {
+        color: black;
+    }
+</style>
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("IndexCTHD", "ChiTietHoaDon", FormMethod.Get))
+{
+
+    <form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
+        <div class="input-group">
+            @Html.TextBox("Search", ViewBag.CurrentFilter as string)
+            <div class="input-group-append">
+                <button class="btn btn-primary" type="submit" value="Tìm kiếm">
+                    <i class="fas fa-search fa-sm"></i>
+                </button>
+            </div>
+        </div>
+    </form>
+}
+<table class="table table-bordered" style="font-size:10px" id="dataTables">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().MACHITIETHD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().MAHD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().MAHANG)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().SOLUONG)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().GIAGOC)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().MUCGIAMGIA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().NGAYDAT)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().NGAYGIAO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().THANHTIEN)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MACHITIETHD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MAHD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MAHANG)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SOLUONG)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GIAGOC)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MUCGIAMGIA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NGAYDAT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NGAYGIAO)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.THANHTIEN)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+<center style="color:#CCC">
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/ @Model.PageCount
+    @*<nav aria-label="Page navigation example">
+            <ul class="pagination">
+                @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+            </ul>
+        </nav>*@
+    @*<div class="col-md-1 text-center clear-both" style="margin:0 auto">*@
+    @Html.PagedListPager(Model, page => Url.Action("IndexCTHD", new { page, currenFilter = ViewBag.CurrentFilter }))
+    @*</div>*@
+
+</center>

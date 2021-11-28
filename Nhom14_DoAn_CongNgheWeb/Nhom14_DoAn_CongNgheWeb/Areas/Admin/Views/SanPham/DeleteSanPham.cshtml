@@ -1,0 +1,143 @@
+﻿@model Nhom14_DoAn_CongNgheWeb.Connection.SANPHAM
+
+@{
+    ViewBag.Title = "DeleteSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/HomeAdminLayot.cshtml";
+}
+
+<style>
+    dt {
+    text-align: center;
+    font-weight: 500;
+    color: black;
+    border: solid;
+    /* width: 118
+px
+; */
+}
+    dd {
+    text-align: center;
+    margin-bottom: 0.5rem;
+    margin-left: 0;
+    color: blue;
+}
+</style>
+
+<div>
+ 
+    <dl class="dl-horizontal" style="border: 1vmax solid red">
+        <dt>
+            @Html.DisplayNameFor(model => model.MAHANG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MAHANG)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TENHANG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TENHANG)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HANGSX)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HANGSX)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MOTANGAN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MOTANGAN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MOTADAYDU)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MOTADAYDU)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NUOCSX)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NUOCSX)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GIASP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GIASP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GIAMGIA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GIAMGIA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GHICHU)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GHICHU)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HINH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HINH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MAMATHANG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MAMATHANG)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MADANHMUC)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MADANHMUC)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TYPEID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TYPEID)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "IndexSanPham")
+        </div>
+    }
+</div>

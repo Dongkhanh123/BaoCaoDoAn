@@ -1,0 +1,25 @@
+﻿@using Nhom14_DoAn_CongNgheWeb.Connection;
+@model  IEnumerable<NHANVIEN>
+<div class="grid-in">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 grid-top" style="border: 1px solid;width:30%;text-align: center;margin-left: 35%;">
+            <a href="#" class="b-link-stripe b-animate-go thicbox">
+
+                <img src="~/Areas/Admin/Content/Images/Images/@item.hinh" width="30%" height="30%" />
+                <div class="b-wrapper">
+                    <h3 class="b-animate bx-from-left b-delay03">
+                        <span>Địa Chỉ:@item.DCHI</span>
+                    </h3>
+                </div>
+            </a>
+            <p><a href="#">Họ tên:@item.HOTEN</a></p>
+            <p><a href="#">Chức Vụ:@item.CHUCVU</a></p>
+            <a href="@Url.Action("XemChiTiet", new { @ms = item.MANV })">Xem Chi Tiet</a>
+        </div>
+
+    }
+</div>
+
+
+

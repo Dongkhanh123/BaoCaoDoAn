@@ -1,0 +1,136 @@
+﻿
+
+@model Nhom14_DoAn_CongNgheWeb.Connection.SANPHAM
+
+@{
+    ViewBag.Title = "XemSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/HomeAdminLayot.cshtml";
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<style>
+    .display-label {
+    border:1px solid RED;
+  
+    width:190px;
+    }
+</style>
+<h2>XemSanPham</h2>
+<body >
+    <fieldset style="border: solid;">
+   
+        <div class="display-label">
+           MÃ SẢN PHẨM 
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.MAHANG)
+        </div>
+
+        <div class="display-label">
+          TÊN SẢN PHẨM 
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.TENHANG)
+        </div>
+
+        <div class="display-label">
+         HÃNG SẢN XUẤT
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.HANGSX)
+        </div>
+
+        <div class="display-label">
+          MÔ TẢ NGẮN VỀ SẢN PHẨM 
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.MOTANGAN)
+        </div>
+
+        <div class="display-label">
+          MÔ TẢ ĐẦY ĐỦ VỀ SẢN PHẨM 
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.MOTADAYDU)
+        </div>
+
+        <div class="display-label">
+          NƯỚC SẢN XUẤT SẢN PHẨM 
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.NUOCSX)
+        </div>
+
+        <div class="display-label">
+        GIÁ SẢN PHẨM 
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.GIASP)
+        </div>
+
+        <div class="display-label">
+         GIÁ SAU KHI GIẢM
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.GIAMGIA)
+        </div>
+
+        <div class="display-label" dt>
+         GHI CHÚ
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.GHICHU)
+        </div>
+
+        <div class="display-label">
+          HÌNH ẢNH SẢN PHẨM 
+        </div>
+       
+        <div class="display-field">
+            <img src="~/Images/DIEN THOAI/IPHONE/(model => model.GHICHU)" class="w-100 rounded" />
+          
+        </div>
+
+        <div class="display-label">
+          MÃ MẶT HÀNG
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.MAMATHANG)
+        </div>
+
+        <div class="display-label">
+           DANH MỤC SẢN PHẨM 
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.MADANHMUC)
+        </div>
+
+        <div class="display-label">
+        SẢN PHẨM GIẢM GIÁ HAY ĐỀ XUÂT
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.TYPEID)
+        </div>
+    </fieldset>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+
+</body>
+
+
